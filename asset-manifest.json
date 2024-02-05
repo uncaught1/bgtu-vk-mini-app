@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/bgtu-vk-mini-app/static/css/main.1140573d.css",
+    "main.js": "/bgtu-vk-mini-app/static/js/main.34e62821.js",
+    "static/media/logo.png": "/bgtu-vk-mini-app/static/media/logo.a970698bb2ef7dbd4747.png",
+    "index.html": "/bgtu-vk-mini-app/index.html",
+    "main.1140573d.css.map": "/bgtu-vk-mini-app/static/css/main.1140573d.css.map",
+    "main.34e62821.js.map": "/bgtu-vk-mini-app/static/js/main.34e62821.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1140573d.css",
+    "static/js/main.34e62821.js"
+  ]
+}
