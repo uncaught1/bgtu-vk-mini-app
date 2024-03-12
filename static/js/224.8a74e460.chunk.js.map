@@ -1,1 +1,0 @@
-{"version":3,"file":"static/js/224.8a74e460.chunk.js","mappings":"sKAEAA,IAAAA,OAEA,QAAeA,G","sources":["eruda.js"],"sourcesContent":["import eruda from 'eruda';\r\n\r\neruda.init();\r\n\r\nexport default eruda;"],"names":["eruda"],"sourceRoot":""}
